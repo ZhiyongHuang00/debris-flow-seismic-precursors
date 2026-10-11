@@ -504,6 +504,15 @@
     "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
   },
   {
+    "stage": "rainfall_acquisition",
+    "original_project_relative_path": "data/降雨数据下载/01_download_process_gpm_imerg_2017_2023.py",
+    "packaged_path": "original_code/data/降雨数据下载/01_download_process_gpm_imerg_2017_2023.py",
+    "source_sha256": "0d502b3da3b6d3dc9002df5ab100b76f31efcb93afe0b00e3fb6a7bff0748a23",
+    "packaged_sha256": "0d502b3da3b6d3dc9002df5ab100b76f31efcb93afe0b00e3fb6a7bff0748a23",
+    "source_modified_local": 1783425751.884405,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
     "stage": "derived_reference_table",
     "original_project_relative_path": "uilt_oneday_all/02clustering/result/DEC_result/precursor_curve_metrics/precursor_clusters_all_metrics.xlsx",
     "packaged_path": "derived_data/precursor_clusters_all_metrics.xlsx",

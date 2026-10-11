@@ -14,6 +14,8 @@ candidate-precursor study, not a validated operational warning system.
   organized in their original relative directory structure. Python scripts are
   byte-identical copies. Notebook code and markdown are preserved; outputs,
   execution counts, and execution metadata are removed.
+- `original_code/data/降雨数据下载/`: the original GPM IMERG acquisition script;
+  credential/configuration files are excluded.
 - `scripts/run_pcs_null.py`: a portable entry point that redirects paths and
   calls the original PCS/null-test functions without changing their algorithms.
 - `derived_data/dec_labels/`: 44 compact NPZ caches containing **only** the

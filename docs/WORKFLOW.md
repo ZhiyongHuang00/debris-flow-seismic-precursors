@@ -116,8 +116,12 @@ Final analysis and plotting: `uilt_paper_figure/010_rainfall_coupling.py` and
 
 Inputs include monthly GPM IMERG CSVs, the processed continuous rainfall series,
 the event rainfall workbook, primary PCS workbook, and pattern/event table.
-Monthly CSVs were produced by a separate Earthdata acquisition script that is
-not bundled here. Authentication configuration must never be committed.
+Monthly CSVs were produced by the archived acquisition script
+`original_code/data/降雨数据下载/01_download_process_gpm_imerg_2017_2023.py`
+(relative to the repository root). It uses `earthaccess` and `xarray`; optional
+acquisition dependencies are listed in `requirements-rainfall.txt`, without
+claiming they reconstruct the historical download environment. Authentication
+configuration is excluded and must never be committed.
 The data products and acquisition provenance must be archived separately.
 
 ## 7. Figure sources

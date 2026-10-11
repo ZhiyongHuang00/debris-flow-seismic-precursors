@@ -1,0 +1,7 @@
+-r requirements-analysis.txt
+# Optional acquisition dependencies inferred from the original downloader.
+# Versions are not reconstructed from its historical execution environment.
+earthaccess
+xarray
+netCDF4
+h5netcdf
