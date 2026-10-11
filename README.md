@@ -138,4 +138,4 @@ No new blanket license is assigned in this snapshot. Existing attribution and
 third-party references in the original source are retained. The authors should
 confirm software licensing before granting redistribution rights.
 
-Correspondence: Zongji Yang, yzj@imde.ac.cn.
+Contact: Zhiyong Huang, huangzhiyong@imde.ac.cn.
