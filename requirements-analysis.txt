@@ -1,0 +1,11 @@
+# Versions confirmed by importing the current local analysis environment.
+# The complete historical environment for every original run is not known.
+# Intended for Python 3.9 (the local analysis interpreter).
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.9.4
+obspy==1.4.1
+scikit-learn==1.6.1
+openpyxl==3.1.5
+tqdm==4.66.4

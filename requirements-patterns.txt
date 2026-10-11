@@ -1,0 +1,6 @@
+-r requirements-analysis.txt
+# Installed distribution versions in the local analysis environment.
+kneed==0.8.5
+seaborn==0.13.2
+shap==0.46.0
+h5py==3.14.0

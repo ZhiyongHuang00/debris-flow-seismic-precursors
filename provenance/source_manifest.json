@@ -1,0 +1,546 @@
+[
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/01_download_ILLdata.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/01_download_ILLdata.py",
+    "source_sha256": "2dbc8a24828f670bc64ba24b8dfdc0d39599743df912107a39d6a77dbc4e49e7",
+    "packaged_sha256": "2dbc8a24828f670bc64ba24b8dfdc0d39599743df912107a39d6a77dbc4e49e7",
+    "source_modified_local": 1750129256.0116138,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/01_down_self_time.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/01_down_self_time.py",
+    "source_sha256": "9d1dd1e502119af1ad6eaa3b12eea29a771ee3d667c54e5afb2ddd6c8a641ef9",
+    "packaged_sha256": "9d1dd1e502119af1ad6eaa3b12eea29a771ee3d667c54e5afb2ddd6c8a641ef9",
+    "source_modified_local": 1750687355.3779757,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/03_cut_one_minutes_event.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/03_cut_one_minutes_event.py",
+    "source_sha256": "885a2dcf27a420b4a6672c3c6c1da508b3a5ffb35bdb53507eaa36089562fcf2",
+    "packaged_sha256": "885a2dcf27a420b4a6672c3c6c1da508b3a5ffb35bdb53507eaa36089562fcf2",
+    "source_modified_local": 1781352802.5334444,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/04_make_stft.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/04_make_stft.py",
+    "source_sha256": "39581bd2209522edeba8a79e9e6bbb13a502b8645c9d180ef4ba281419cec7c3",
+    "packaged_sha256": "39581bd2209522edeba8a79e9e6bbb13a502b8645c9d180ef4ba281419cec7c3",
+    "source_modified_local": 1781353579.9171877,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/download_inv.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/download_inv.py",
+    "source_sha256": "74fc72ee6a9ce6725865a00118e68f63da812ca9907bb99bbb4d21d7280d6c85",
+    "packaged_sha256": "74fc72ee6a9ce6725865a00118e68f63da812ca9907bb99bbb4d21d7280d6c85",
+    "source_modified_local": 1750129985.3219924,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "preprocessing",
+    "original_project_relative_path": "uilt_oneday_all/01data_preprocess/make_all_inv2.py",
+    "packaged_path": "original_code/uilt_oneday_all/01data_preprocess/make_all_inv2.py",
+    "source_sha256": "0036c1426916e2e32d54f9a39dce43a94d72cc77ad88f406fd8094aab4c2d63d",
+    "packaged_sha256": "0036c1426916e2e32d54f9a39dce43a94d72cc77ad88f406fd8094aab4c2d63d",
+    "source_modified_local": 1750133156.1052816,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/Model_AE.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/Model_AE.py",
+    "source_sha256": "cbe5406ee51dd2c79891fec5e611f03b9d77e3c64d55b2196b23ad6ae39c63fc",
+    "packaged_sha256": "cbe5406ee51dd2c79891fec5e611f03b9d77e3c64d55b2196b23ad6ae39c63fc",
+    "source_modified_local": 1779343525.1189656,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/01_Autodecoder.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/01_Autodecoder.py",
+    "source_sha256": "117e146c1e3cf7e395770d00dcb452e1eaefbb4f2c21c7f748816ff219231d9d",
+    "packaged_sha256": "117e146c1e3cf7e395770d00dcb452e1eaefbb4f2c21c7f748816ff219231d9d",
+    "source_modified_local": 1781353783.8649592,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/01_DEC.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/01_DEC.py",
+    "source_sha256": "94c4f96d083764a379fc0e8942b7342eec9fee8079a68c31435fa9bd0d0d4d92",
+    "packaged_sha256": "94c4f96d083764a379fc0e8942b7342eec9fee8079a68c31435fa9bd0d0d4d92",
+    "source_modified_local": 1781354647.9789362,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/metrics.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/metrics.py",
+    "source_sha256": "d0f62789d18bb640a1facf455dd26f7edcfae8c7c747fd0f302acb3725c75a59",
+    "packaged_sha256": "d0f62789d18bb640a1facf455dd26f7edcfae8c7c747fd0f302acb3725c75a59",
+    "source_modified_local": 1720536912.7991261,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/plot_distribution.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/plot_distribution.py",
+    "source_sha256": "e501c87b6a8aa30c879567a5367ec2e94806cdfd1107f95533784468523f5f3a",
+    "packaged_sha256": "e501c87b6a8aa30c879567a5367ec2e94806cdfd1107f95533784468523f5f3a",
+    "source_modified_local": 1728227221.7032733,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/02_calculate_Kmeans_metrics.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/02_calculate_Kmeans_metrics.py",
+    "source_sha256": "596cd81f05b179906402009676889e208760a29eff8270bb328430a73b8335eb",
+    "packaged_sha256": "596cd81f05b179906402009676889e208760a29eff8270bb328430a73b8335eb",
+    "source_modified_local": 1781354267.2350714,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "event_specific_training",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/03_find_Kmeans_metrics.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/03_find_Kmeans_metrics.py",
+    "source_sha256": "7f9400fc1bff458d39f016ef6f82b3bfc1d47261302ada653be744728c10297c",
+    "packaged_sha256": "7f9400fc1bff458d39f016ef6f82b3bfc1d47261302ada653be744728c10297c",
+    "source_modified_local": 1761743593.5264904,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "short_window_training_and_dependencies",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/05_Autodecoder_all_event.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/05_Autodecoder_all_event.py",
+    "source_sha256": "266509b9d2ce9ff5305c2bc1c7a2ae9b091c8436dca13e55e53140e4c96c1a68",
+    "packaged_sha256": "266509b9d2ce9ff5305c2bc1c7a2ae9b091c8436dca13e55e53140e4c96c1a68",
+    "source_modified_local": 1779297402.3943968,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "short_window_training_and_dependencies",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/06_all_kneed_kmeans.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/06_all_kneed_kmeans.py",
+    "source_sha256": "e5daa3b88704ddd1f970f21779dd04d51830357d7b36b9098942060529f1c082",
+    "packaged_sha256": "e5daa3b88704ddd1f970f21779dd04d51830357d7b36b9098942060529f1c082",
+    "source_modified_local": 1779267337.9724383,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "short_window_training_and_dependencies",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/08_DEC_different_duration_kneed.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/08_DEC_different_duration_kneed.py",
+    "source_sha256": "680021cdac5f5d07e9d319b598e0e03574af5996be49d0046813fefa2c7a2642",
+    "packaged_sha256": "680021cdac5f5d07e9d319b598e0e03574af5996be49d0046813fefa2c7a2642",
+    "source_modified_local": 1783263644.2804947,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "short_window_training_and_dependencies",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/09_DEC_different_duration.py",
+    "packaged_path": "original_code/uilt_oneday_all/02clustering/09_DEC_different_duration.py",
+    "source_sha256": "ff9cfa92e021e0babee7f5f6ee1752fa74f7fae195fbcd589738767baaceb237",
+    "packaged_sha256": "ff9cfa92e021e0babee7f5f6ee1752fa74f7fae195fbcd589738767baaceb237",
+    "source_modified_local": 1783266353.2248275,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "pcs_primary",
+    "original_project_relative_path": "uilt_oneday_all/03visual/09_export_precursor_curve_metrics.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/09_export_precursor_curve_metrics.py",
+    "source_sha256": "3fdccd25533bc75f03083ab7f10d977c505a88c417cb1564609aea4c7a6b25e7",
+    "packaged_sha256": "3fdccd25533bc75f03083ab7f10d977c505a88c417cb1564609aea4c7a6b25e7",
+    "source_modified_local": 1780488514.6619165,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/01_cluster_over_time.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/01_cluster_over_time.py",
+    "source_sha256": "c236860579983871a7ca361a17c750b0de8528597913866475fc7143a7e672f4",
+    "packaged_sha256": "c236860579983871a7ca361a17c750b0de8528597913866475fc7143a7e672f4",
+    "source_modified_local": 1783232198.3837109,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/02_PCS_different_dura.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/02_PCS_different_dura.py",
+    "source_sha256": "c39ec3ed323e33266f2ee2de0bffc806def72180ed51fecfef7bae9c9b475461",
+    "packaged_sha256": "c39ec3ed323e33266f2ee2de0bffc806def72180ed51fecfef7bae9c9b475461",
+    "source_modified_local": 1783247180.3131108,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/03_event_similary_cluster.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/03_event_similary_cluster.py",
+    "source_sha256": "89860f7c602659c0faf688d7893d36b5c3c0eb461c01893533466e5a8262accb",
+    "packaged_sha256": "89860f7c602659c0faf688d7893d36b5c3c0eb461c01893533466e5a8262accb",
+    "source_modified_local": 1783262843.0773194,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/04_different_model_rainfall.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/04_different_model_rainfall.py",
+    "source_sha256": "09998851c2abd6fa9d89283cf079cec53e53ec0564abc157f55f7338cf6cb505",
+    "packaged_sha256": "09998851c2abd6fa9d89283cf079cec53e53ec0564abc157f55f7338cf6cb505",
+    "source_modified_local": 1783752911.208594,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/05_different_PCS_24.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/05_different_PCS_24.py",
+    "source_sha256": "515cf7bf22711baba21e15a94ddefb30c76e8a204e160bdf4c374d69897077eb",
+    "packaged_sha256": "515cf7bf22711baba21e15a94ddefb30c76e8a204e160bdf4c374d69897077eb",
+    "source_modified_local": 1783756883.716363,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "cross_window_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/compared_different_duration/06_match_24h.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/compared_different_duration/06_match_24h.py",
+    "source_sha256": "7c3e1e8f1e34ce87e116a2b11b49494da5a7e7665df5a589d027585f50134062",
+    "packaged_sha256": "7c3e1e8f1e34ce87e116a2b11b49494da5a7e7665df5a589d027585f50134062",
+    "source_modified_local": 1783821337.9466324,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/calculate_paramater/02_calculate_all.py",
+    "packaged_path": "original_code/uilt_oneday_all/calculate_paramater/02_calculate_all.py",
+    "source_sha256": "729301a14d8c85e447df14be2bd455e0666054ddaedbda54ed87cd68582641b4",
+    "packaged_sha256": "729301a14d8c85e447df14be2bd455e0666054ddaedbda54ed87cd68582641b4",
+    "source_modified_local": 1763724553.5109365,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/calculate_paramater/Polarization.py",
+    "packaged_path": "original_code/uilt_oneday_all/calculate_paramater/Polarization.py",
+    "source_sha256": "3fd9a44f3580420d3fe1c3d2e07f0dcc8344bb1714b813318cb218f94aa0ee44",
+    "packaged_sha256": "3fd9a44f3580420d3fe1c3d2e07f0dcc8344bb1714b813318cb218f94aa0ee44",
+    "source_modified_local": 1751558201.2022512,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/03visual/二次聚类/00_matching_feature.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/二次聚类/00_matching_feature.py",
+    "source_sha256": "8303257b6fa2dce3ed40d6cb0d9a5f85b9d3cf75419679b378d4184987c0d7e7",
+    "packaged_sha256": "8303257b6fa2dce3ed40d6cb0d9a5f85b9d3cf75419679b378d4184987c0d7e7",
+    "source_modified_local": 1781359936.7782495,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/03visual/二次聚类/08_kmeans_precursor2.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/二次聚类/08_kmeans_precursor2.py",
+    "source_sha256": "4dd488d5150544770c8da8583cb549284b61abb1325bf4bcb077ebd658ac2c59",
+    "packaged_sha256": "4dd488d5150544770c8da8583cb549284b61abb1325bf4bcb077ebd658ac2c59",
+    "source_modified_local": 1781361667.3858266,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/03visual/二次聚类/09_kmeans_secondary_cluster_physical_process_evidence.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/二次聚类/09_kmeans_secondary_cluster_physical_process_evidence.py",
+    "source_sha256": "1d512d2b7a8a9743273e0ff7450585f1602f644ec126c75368d8e67fc4806582",
+    "packaged_sha256": "1d512d2b7a8a9743273e0ff7450585f1602f644ec126c75368d8e67fc4806582",
+    "source_modified_local": 1782890941.0599368,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "physical_features_and_patterns",
+    "original_project_relative_path": "uilt_oneday_all/03visual/二次聚类/09_kmeans2_mode_waveform_process.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/二次聚类/09_kmeans2_mode_waveform_process.py",
+    "source_sha256": "63c70271b7abbbf5f4668962fcac02e3d519f0be4593cabcc33c2fec905c8f85",
+    "packaged_sha256": "63c70271b7abbbf5f4668962fcac02e3d519f0be4593cabcc33c2fec905c8f85",
+    "source_modified_local": 1781364438.076188,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "rainfall_analysis",
+    "original_project_relative_path": "uilt_oneday_all/03visual/rain_coupling/01_rainfall_couple.py",
+    "packaged_path": "original_code/uilt_oneday_all/03visual/rain_coupling/01_rainfall_couple.py",
+    "source_sha256": "622f7c3196cd3bb7b32b807909bd34d7cd50bf71a8f010041e4d62c45b38ac2b",
+    "packaged_sha256": "622f7c3196cd3bb7b32b807909bd34d7cd50bf71a8f010041e4d62c45b38ac2b",
+    "source_modified_local": 1783350674.2424033,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/01_Figure1.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/01_Figure1.py",
+    "source_sha256": "ba9d30705863e0da2fd5b2888f22727193bed4ca6b1a0b36b673c676b4ee1a33",
+    "packaged_sha256": "ba9d30705863e0da2fd5b2888f22727193bed4ca6b1a0b36b673c676b4ee1a33",
+    "source_modified_local": 1786984706.1883674,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/01_precursor_wave.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/01_precursor_wave.py",
+    "source_sha256": "b8374b229b89ac8efc8c0a3a521caf8d9a4699e5b1a4405f61731c802dde5a72",
+    "packaged_sha256": "b8374b229b89ac8efc8c0a3a521caf8d9a4699e5b1a4405f61731c802dde5a72",
+    "source_modified_local": 1781345921.3813956,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/02_model_result.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/02_model_result.py",
+    "source_sha256": "17ed41e46fd681a1aca81d3ab48a19e1aeb0b364bfa8b1171f016ac8906abbc7",
+    "packaged_sha256": "17ed41e46fd681a1aca81d3ab48a19e1aeb0b364bfa8b1171f016ac8906abbc7",
+    "source_modified_local": 1786605668.8369305,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/02_model_框架_公式更新版.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/02_model_框架_公式更新版.py",
+    "source_sha256": "f4345a3411b7d6d7edd39a8418ebe47fac9a7712d6f5c7760b04a61819ca3738",
+    "packaged_sha256": "f4345a3411b7d6d7edd39a8418ebe47fac9a7712d6f5c7760b04a61819ca3738",
+    "source_modified_local": 1787628005.4260123,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/011_PSC_test.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/011_PSC_test.py",
+    "source_sha256": "a21c434846f0d39460627d95c87022e78e5e1833f4dd4ccfacaf6d0d37ca51c7",
+    "packaged_sha256": "a21c434846f0d39460627d95c87022e78e5e1833f4dd4ccfacaf6d0d37ca51c7",
+    "source_modified_local": 1786519492.2487411,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/012_all_event_and_test.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/012_all_event_and_test.py",
+    "source_sha256": "4a2fa360d0a056cbc7d9b59030a8ecf20ff9646d658cd4a234e611f15f7ef93b",
+    "packaged_sha256": "4a2fa360d0a056cbc7d9b59030a8ecf20ff9646d658cd4a234e611f15f7ef93b",
+    "source_modified_local": 1786612645.0345833,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/05_new_ record-section.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/05_new_ record-section.py",
+    "source_sha256": "9dd72ae53168f374d4b2a355814d73470b65f084aef0376c1079a56fa0e3aa48",
+    "packaged_sha256": "9dd72ae53168f374d4b2a355814d73470b65f084aef0376c1079a56fa0e3aa48",
+    "source_modified_local": 1786709347.2519832,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/figure_rainfall_couple_event.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/figure_rainfall_couple_event.py",
+    "source_sha256": "0277bb7fc2f3cdfed1f24386cc51cd10ee29307dfd59da7bd6e9ff6d5142c045",
+    "packaged_sha256": "0277bb7fc2f3cdfed1f24386cc51cd10ee29307dfd59da7bd6e9ff6d5142c045",
+    "source_modified_local": 1783871224.4583158,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/06_pattern_center_waveforms.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/06_pattern_center_waveforms.py",
+    "source_sha256": "5a08ee038e7b71a80fcb456c7d2dd27ded93023940f0fc7c1f68e15e7682a00b",
+    "packaged_sha256": "5a08ee038e7b71a80fcb456c7d2dd27ded93023940f0fc7c1f68e15e7682a00b",
+    "source_modified_local": 1782918152.8874848,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/08_different_duration_base24.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/08_different_duration_base24.py",
+    "source_sha256": "65e2f78dc70eb40573021c0f9d06e1104a7bc65af567e3e6328a826d43d7d531",
+    "packaged_sha256": "65e2f78dc70eb40573021c0f9d06e1104a7bc65af567e3e6328a826d43d7d531",
+    "source_modified_local": 1785741336.3295138,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/010_rainfall_coupling.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/010_rainfall_coupling.py",
+    "source_sha256": "a479f5ed93b5fba636122efb045c0aa52978abc7ef604769f36beb6a67db6b32",
+    "packaged_sha256": "a479f5ed93b5fba636122efb045c0aa52978abc7ef604769f36beb6a67db6b32",
+    "source_modified_local": 1791550828.7281718,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_figures",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/map.py",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/map.py",
+    "source_sha256": "80fd35c5b487d404803fdc055585fbf7c6da527280c3d360d245e6f7b433d0ca",
+    "packaged_sha256": "80fd35c5b487d404803fdc055585fbf7c6da527280c3d360d245e6f7b433d0ca",
+    "source_modified_local": 1787832697.223908,
+    "transformation": "none (byte-identical source copy)"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/01_waveform_spectrum.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/01_waveform_spectrum.ipynb",
+    "source_sha256": "033e7f1d09193f3062b5f32ecc619c121e56d478decf0ca746548bfa6d25d9ff",
+    "packaged_sha256": "f26c5142ee0f948d29aba3b2fae341988cc4c7e30ed4c4ce206db3984219218c",
+    "source_modified_local": 1791547076.0003378,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/02_model_result_figure.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/02_model_result_figure.ipynb",
+    "source_sha256": "f62e679b1346c200d8bd2f1a40b3fb22857205242973547a40d151d4903a9294",
+    "packaged_sha256": "4f5400a628a9359dee9eceefd0f1fae74d8260f491783af935f08094d8e8e39c",
+    "source_modified_local": 1791548315.2231321,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/02_cluster_results_DEC_quality.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/02_cluster_results_DEC_quality.ipynb",
+    "source_sha256": "cea0249e7828f33e8707c5983c869379035774386a8fa81ab83314fc1eb3c03f",
+    "packaged_sha256": "962970f19d2b202a55d47bd60b52b1cca9e131ef159af04dc9d9afee0d17b31d",
+    "source_modified_local": 1782739072.5917325,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/03_event_scale_precursor_cluster.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/03_event_scale_precursor_cluster.ipynb",
+    "source_sha256": "1e3787cce0eb4fc7b142991b76ed108c93a49fb501e7c3bec5c03cb84e25cea3",
+    "packaged_sha256": "fd1c47e42ec0b6995da235310dc66b48fe806c7235d3e81abb80b3b35f37057f",
+    "source_modified_local": 1782797555.9923592,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/04_event_cluster_diagnostics.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/04_event_cluster_diagnostics.ipynb",
+    "source_sha256": "17757e2f446d62b534bc596b9fcef29281608f17098de347259b865de71d8d99",
+    "packaged_sha256": "b1fbc2d5b522cfe859e709ea5b156be6f24f5a7f0302d8b9c8dff0585b93ca96",
+    "source_modified_local": 1791553026.0909247,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/012_all_event_and_test.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/012_all_event_and_test.ipynb",
+    "source_sha256": "452100cfd18898bf56f116f9d26c0e3534b3188cee9827c3d49c424b7a5c1f0d",
+    "packaged_sha256": "a0fd6cef9848f71deb0c6e9c5406c9109c7bf2d452f173dea738072cfb66a546",
+    "source_modified_local": 1791548780.6684248,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/05_two_model.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/05_two_model.ipynb",
+    "source_sha256": "044d87f53244b4ae9a65721fe8e6927908660c56ab27efa3f4f6b81837ed7fd1",
+    "packaged_sha256": "3ab1c06a59495829b93f9fba281b69392590eb37abd9ca896700591c7fb6b172",
+    "source_modified_local": 1791550473.314514,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Figure_06_difference_duration.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/Figure_06_difference_duration.ipynb",
+    "source_sha256": "39bdd1c9e406e0e2318b4ee02bddc9e646aeaa40f9fe2677898079fca3a9c51f",
+    "packaged_sha256": "c16e4b6bba369feddfc4aea23ee3da83fcd3e973b4a1de2dfd118fb5fcde09a4",
+    "source_modified_local": 1791553026.2801096,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Figure_08_rainfall_couple.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/Figure_08_rainfall_couple.ipynb",
+    "source_sha256": "66dd6885cab883aea7cb9aa458af927c617efa92ed0853319a02e92e848e0f8f",
+    "packaged_sha256": "cb9797382ebff7e2f1d67baa36ebe1cb974b35906d6ce08be9b9456127d9537f",
+    "source_modified_local": 1791551183.2205372,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Figure_S01_rainfall.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/Figure_S01_rainfall.ipynb",
+    "source_sha256": "7f62c6e5ba58b7b8fba1e5b8d2bee46a02d1e9b6b78e7625f8f7bbfe6fdec66a",
+    "packaged_sha256": "a9c37f690990b9efa890848fbdc87664455bfc0281de74b73295b723a5cc0f6c",
+    "source_modified_local": 1791549568.3574424,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Figure_S5_PCS参数及启动时刻稳健性图.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/Figure_S5_PCS参数及启动时刻稳健性图.ipynb",
+    "source_sha256": "0d71d9feb442155e50094098fb6ecca88dfcc4a5acce8aa0c4a85a59cce13857",
+    "packaged_sha256": "91a9a2d033137f352542f2656fbe6f2a3f59bc0f2b73d6e0d497c04e81a12aa2",
+    "source_modified_local": 1791552404.7158718,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/FigureS6_second_clustering.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/FigureS6_second_clustering.ipynb",
+    "source_sha256": "3b6ec116961bd28beb8c665975c692164117f72946e362caeff0a54706effb98",
+    "packaged_sha256": "054e1210211c696a77463414b84b9ee86289f471ef041c7bf3af7c9ea118f65f",
+    "source_modified_local": 1791557826.1379914,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "manuscript_notebooks",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/MAP.ipynb",
+    "packaged_path": "original_code/uilt_oneday_all/uilt_paper_figure/MAP.ipynb",
+    "source_sha256": "a8b1a8058518ac26f84bbb3ac1c808d98c81627403ff228a9179f68232a52599",
+    "packaged_sha256": "a080c1c9b1dc289440eb0a34716cba912a4dc6abf622900fb12acf549154f01c",
+    "source_modified_local": 1788160876.3738887,
+    "transformation": "outputs, execution counts, and notebook/cell metadata removed; code and markdown preserved"
+  },
+  {
+    "stage": "derived_reference_table",
+    "original_project_relative_path": "uilt_oneday_all/02clustering/result/DEC_result/precursor_curve_metrics/precursor_clusters_all_metrics.xlsx",
+    "packaged_path": "derived_data/precursor_clusters_all_metrics.xlsx",
+    "source_sha256": "98b324d1bce0def845914f6a416f795f2635a91a867d0f097ffc7a298abc2ff9",
+    "packaged_sha256": "98b324d1bce0def845914f6a416f795f2635a91a867d0f097ffc7a298abc2ff9",
+    "transformation": "none (byte-identical copy)"
+  },
+  {
+    "stage": "derived_reference_table",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Fig_PCS_time_shift_null/pcs_time_shift_null_summary.csv",
+    "packaged_path": "reference_results/pcs_time_shift_null_summary.csv",
+    "source_sha256": "f564391a68b55905c57443ebbe0cd135154aa4341880c9234cb11771a378b79b",
+    "packaged_sha256": "f564391a68b55905c57443ebbe0cd135154aa4341880c9234cb11771a378b79b",
+    "transformation": "none (byte-identical copy)"
+  },
+  {
+    "stage": "derived_reference_table",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Fig_PCS_time_shift_null/pcs_time_shift_observed_events.csv",
+    "packaged_path": "reference_results/pcs_time_shift_observed_events.csv",
+    "source_sha256": "5f21993c8d96d67f5a5a98ba698357d308203ba6c627ba60f79d5b8ece7f7005",
+    "packaged_sha256": "5f21993c8d96d67f5a5a98ba698357d308203ba6c627ba60f79d5b8ece7f7005",
+    "transformation": "none (byte-identical copy)"
+  },
+  {
+    "stage": "derived_reference_table",
+    "original_project_relative_path": "uilt_oneday_all/uilt_paper_figure/Fig_PCS_time_shift_null/pcs_time_shift_hourly_curve.csv",
+    "packaged_path": "reference_results/pcs_time_shift_hourly_curve.csv",
+    "source_sha256": "e4231c4a00eeeda52fbdf9f46a0d33cebc940ff4575134efe721e24da22e849f",
+    "packaged_sha256": "e4231c4a00eeeda52fbdf9f46a0d33cebc940ff4575134efe721e24da22e849f",
+    "transformation": "none (byte-identical copy)"
+  },
+  {
+    "stage": "derived_reference_table",
+    "original_project_relative_path": "uilt_oneday_all/03visual/二次聚类/kmeans_clustering_from_matched_precursor_features/kmeans_clustering_results.csv",
+    "packaged_path": "reference_results/kmeans_clustering_results.csv",
+    "source_sha256": "5939ebd55fc5a503a287bb98051ad5369e394da13ebc19f5bf01304bb06ac418",
+    "packaged_sha256": "5939ebd55fc5a503a287bb98051ad5369e394da13ebc19f5bf01304bb06ac418",
+    "transformation": "none (byte-identical copy)"
+  }
+]

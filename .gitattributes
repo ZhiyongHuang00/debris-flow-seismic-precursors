@@ -1,0 +1,8 @@
+* text=auto eol=lf
+# Preserve archived source bytes exactly, including original line endings.
+original_code/** -text
+reference_results/** -text
+provenance/** -text
+derived_data/** -text
+*.npz -text
+*.xlsx -text

@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.idea/
+.env
+.env.*
+.netrc
+.dodsrc
+*credentials*
+*token*
+*.pem
+*.key
+outputs/
+*.sac
+*.mseed
+*.h5
+*.hdf5
+*.tiff
+*.tif
+*.png
+*.pdf
+*.svg
+*.docx
+# Explicitly committed compact derived labels are the only bundled NPZ data.
+*.npz
+!derived_data/dec_labels/*.npz

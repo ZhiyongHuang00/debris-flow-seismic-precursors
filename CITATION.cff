@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, cite this repository with the exact commit. Manuscript publication metadata will be added after publication."
+type: software
+title: "Code for Deep Unsupervised Learning Reveals Recurrent Candidate Seismic Precursors to Debris-Flow Initiation"
+version: "submission-snapshot-2026-10-11"
+repository-code: "https://github.com/ZhiyongHuang00/debris-flow-seismic-precursors"
+authors:
+  - family-names: Huang
+    given-names: Zhiyong
+  - family-names: Yang
+    given-names: Zongji
+  - family-names: Tang
+    given-names: Hui
+  - family-names: Pang
+    given-names: Bo
+  - family-names: Wu
+    given-names: Zhaoying
+  - family-names: Chen
+    given-names: Pan
