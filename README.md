@@ -1,12 +1,11 @@
 # Debris-flow seismic precursors
 
 Source code supporting **Deep Unsupervised Learning Reveals Recurrent Candidate
-Seismic Precursors to Debris-Flow Initiation**, prepared for submission to
-*Journal of Geophysical Research: Earth Surface*.
+Seismic Precursors to Debris-Flow Initiation**.
 
 The study analyzes 24-hour seismic windows preceding the recorded onset of
 44 debris-flow events in Illgraben, Switzerland. It is a retrospective
-candidate-precursor study, not a validated operational warning system.
+candidate-precursor study.
 
 ## Contents and provenance
 
