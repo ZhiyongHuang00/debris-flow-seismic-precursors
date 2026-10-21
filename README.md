@@ -113,18 +113,7 @@ Station metadata, event windows, and preprocessing choices must match the study.
 GPM IMERG data require their own provenance and access arrangements; no Earthdata
 credentials are included.
 
-## Scope of validation
 
-Code packaging verifies source integrity and executable PCS reproduction.
-It does not resolve scientific questions about overlapping event windows,
-recorded-onset uncertainty, feature frequency units, or model parameter counts.
-Full retraining and all manuscript figures have not been revalidated here.
-
-The number 35/44 is the retrospective frequency of PCS-selected events, not
-prediction accuracy. The null test conditions on event records and does not
-measure false-alarm rates during normal background or non-triggering rainfall.
-Short-window state matching uses the 24-hour reference retrospectively and is
-not a prospective lead-time validation.
 
 ## Citation and archiving
 
